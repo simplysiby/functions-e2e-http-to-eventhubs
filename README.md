@@ -13,7 +13,7 @@ languages:
 
 # Flex Consumption plan - HTTP trigger to Event Hubs using VNET Integration | Azure Functions
 
-A common scenario for Azure Functions is the ingestion and processing of HTTP-based inputs. For example, an HTTP endpoint that is part of a larger API for ingesting customer feedabck and support information, or a flash sale that needs to ingest customer sign ups interested in the sale. The function app can do some validation and transformation of the provided information before sending it to a secure endpoint for further downstream processing.
+A common scenario for Azure Functions is the ingestion and processing of HTTP-based inputs. For example, an HTTP endpoint that is part of a larger API for ingesting customer feedback and support information, or a flash sale that needs to ingest customer sign ups interested in the sale. The function app can do some validation and transformation of the provided information before sending it to a secure endpoint for further downstream processing.
 
 This sample demonstrates a function app running in a Flex Consumption plan that connects to Event Hubs running in a virtual network. This sample demonstrates these two key features of the Flex Consumption plan:
 
